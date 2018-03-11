@@ -1,0 +1,17 @@
+future: true
+permalink: /:title/
+url: http://bbycjhj.github.io
+name: bbycjhj
+author: bbycjhj
+qq: 616466391
+email: bbycjhj@163.com
+
+duoshuo: yourname
+beian: 
+cnzz: 
+weibo: 
+github: yourID
+about: "这里是 Your 的个人博客，创建于 20xx 年。"
+
+safe: true
+paginate: 20
