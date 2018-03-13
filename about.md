@@ -8,7 +8,7 @@ titles:
 key: page-about
 ---
 
-Just say something about yourself. :+1:
+这是bbycjhj的个人博客. :+1:
 
 {% highlight javascript %}
 (() => console.log('hello, world!'))();
