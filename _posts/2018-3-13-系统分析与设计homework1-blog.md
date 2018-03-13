@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: 系统分析与设计homework1
+title: 系统分析与设计homework
 date: 2018-3-13 20:00:00+00:00
 categories: 系统分析设计
 tags: 作业
