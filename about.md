@@ -10,8 +10,4 @@ key: page-about
 
 这是bbycjhj的个人博客. :+1:
 
-{% highlight javascript %}
-(() => console.log('hello, world!'))();
-{% endhighlight %}
 
-## title
